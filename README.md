@@ -1,37 +1,25 @@
-<p align="center">
-____Welcome____
-
-
-AUTHOR:
-<p align="center">
-ANONYMOUS U7P4L
-
-</br>
-<p align="center">
-      ⚡😺Install And Use Kali Linux With Gui In Termux⚡⚡
-</p>
+<div align="center">
   
-#### INSTALL TOOL ON TERMUX
-```python
- pkg update
- pkg upgrade
- pkg install python
- pkg install git
- pip install requests
- pip install bs4
- pip install futures
- pip install mechanize
- cd $HOME 
- git clone https://github.com/ANONYMOUS-U7P4L/Kali-Linux.git
-```
-#### RUN SCRIPT
-```python
- cd Kali-Linux
+  ![GitHub repo size](https://img.shields.io/github/repo-size/codewithsadee/drew-hays-personal-portfolio)
+  ![GitHub stars](https://img.shields.io/github/stars/codewithsadee/drew-hays-personal-portfolio?style=social)
+  ![GitHub forks](https://img.shields.io/github/forks/codewithsadee/drew-hays-personal-portfolio?style=social)
+  [![Twitter Follow](https://img.shields.io/twitter/follow/codewithsadee?style=social)](https://twitter.com/intent/follow?screen_name=codewithsadee)
+  [![YouTube Video Views](https://img.shields.io/youtube/views/lzledoZLFBQ?style=social)](https://youtu.be/lzledoZLFBQ)
 
- bash Kali-Linux.sh
-```
+  <br />
+  <br />
 
+  <h2 align="center">Prsonal Portfolio Website</h2>
 
-#### Tools Languages :
+  this is a fully responsive personal portfolio website, <br />Responsive for all devices, build using HTML, CSS, and JavaScript.
 
+  <a href="https://codewithsadee.github.io/drew-hays-personal-portfolio/"><strong>➥ Live Demo</strong></a>
+
+</div>
+
+<br />
+
+### License
+
+[MIT](https://choosealicense.com/licenses/mit/)
 ![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=ANONYMOUS-U7P4L&repo=Kali-Linux&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)
